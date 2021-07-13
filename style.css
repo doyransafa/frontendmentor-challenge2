@@ -75,7 +75,7 @@ p {
     width: 90%;
     max-width: 375px;
     margin: 0 auto;
-    height: 60vh;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -151,10 +151,6 @@ p {
 
     .sedan {
         border-radius: 10px 0% 0% 10px;
-    }
-
-    .cards {
-        height: 70vh;
     }
 
 }
